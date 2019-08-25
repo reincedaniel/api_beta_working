@@ -6,8 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "reincedaniel"
+  },
   "keywords": [],
-  "author": "",
+  "author": "Lourenço Daniel Sebastião Carlos",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
